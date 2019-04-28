@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/componentlibrary/componentlibrary.iml" filepath="$PROJECT_DIR$/componentlibrary/componentlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logincomponent/logincomponent.iml" filepath="$PROJECT_DIR$/logincomponent/logincomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycomponent/mycomponent.iml" filepath="$PROJECT_DIR$/mycomponent/mycomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zujian.iml" filepath="$PROJECT_DIR$/zujian.iml" />
+    </modules>
+  </component>
+</project>
