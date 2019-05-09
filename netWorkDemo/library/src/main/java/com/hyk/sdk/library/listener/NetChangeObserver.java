@@ -1,6 +1,6 @@
 package com.hyk.sdk.library.listener;
 
-import com.hyk.sdk.library.tuype.NetType;
+import com.hyk.sdk.library.type.NetType;
 
 /**
  * Created by hyk on 2019/4/15.

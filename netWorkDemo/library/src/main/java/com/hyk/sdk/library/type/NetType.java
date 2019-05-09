@@ -1,4 +1,4 @@
-package com.hyk.sdk.library.tuype;
+package com.hyk.sdk.library.type;
 
 /**
  * Created by hyk on 2019/4/15.

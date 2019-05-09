@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.hyk.sdk.library.listener.NetChangeObserver;
-import com.hyk.sdk.library.tuype.NetType;
+import com.hyk.sdk.library.type.NetType;
 
 public class MainActivity extends AppCompatActivity implements NetChangeObserver{
 
